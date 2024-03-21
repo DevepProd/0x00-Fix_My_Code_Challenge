@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T10:06:39.052Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="shesijLTuVQYTessq_0D" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-21T10:13:42.298Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="q0o55Zc5UkjxCr_viZZe" version="24.0.7" type="github">
   <diagram name="Page-1" id="CkJ11IbJdgqycw08BvRD">
     <mxGraphModel dx="2734" dy="2504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
@@ -258,9 +258,6 @@
         </mxCell>
         <mxCell id="zvDx-RI4SgqdZpIUH7GK-160" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;" vertex="1" parent="1">
           <mxGeometry x="1600" y="-1262.5" width="100" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="zvDx-RI4SgqdZpIUH7GK-161" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="1408" y="-1188" width="32" height="36" as="geometry" />
         </mxCell>
         <mxCell id="zvDx-RI4SgqdZpIUH7GK-162" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;" vertex="1" parent="1">
           <mxGeometry x="1600" y="-1166" width="100" height="75" as="geometry" />
