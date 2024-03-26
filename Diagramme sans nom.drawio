@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T11:36:20.655Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="4VAXGEyqMBWjjONKC69j" version="24.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-26T11:37:01.295Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="lS4puLC5GXabFbUSRrrf" version="24.1.0" type="github">
   <diagram name="Page-1" id="bWEiz-yl2a5lwroInKTy">
     <mxGraphModel dx="5467" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -64,8 +64,8 @@
         <mxCell id="A3eTrqCNgG_vszFpW4A1-28" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png" parent="1" vertex="1">
           <mxGeometry x="420" y="300" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="A3eTrqCNgG_vszFpW4A1-30" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Hall&lt;/font&gt;&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="170" y="130" width="120" height="80" as="geometry" />
+        <mxCell id="A3eTrqCNgG_vszFpW4A1-30" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;La grande salle&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="130" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="A3eTrqCNgG_vszFpW4A1-33" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.server;" parent="1" vertex="1">
           <mxGeometry x="30" y="15" width="50" height="15" as="geometry" />
